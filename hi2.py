@@ -1,2 +1,1 @@
-print "hi from 2"
-
+print "issue 2 fixed"
